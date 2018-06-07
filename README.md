@@ -6,3 +6,5 @@ The little system is designed to realize somehow intelligent management of wareh
 The system are based on database sothat it is possible to communicate with other underlying hardware. Database can also improve the system's extension posibility.
 
 ## GUI
+The program initialize itself with the GUI below.  
+[!image](https://github.com/wenyi1994/Warehouse-Management/blob/master/pics/GUI.png)
