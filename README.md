@@ -7,4 +7,4 @@ The system are based on database sothat it is possible to communicate with other
 
 ## GUI
 The program initialize itself with the GUI below.  
-[!image](https://github.com/wenyi1994/Warehouse-Management/blob/master/pics/GUI.png)
+![image](https://github.com/wenyi1994/Warehouse-Management/blob/master/pics/GUI.png)
